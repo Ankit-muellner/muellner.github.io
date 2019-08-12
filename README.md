@@ -1,12 +1,12 @@
 ## Muellner Internet
 Muellners™ is a new age Internet Informatics company based in India and Europe. 
 
-
-You can use the [editor on GitHub](https://github.com/Ankit-muellner/muellner.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-
-
 ### CASE STUDIES
+Internet Marketing Case Studies
+Research and Development Case Studies
+Analytics Case Studies
+Startup Capital Portfolio
+
 ### SERVICES
 Research and Development On Demand = We offer cutting edge technologies and productised models of Research and Development.
 Our customers are businesses looking to either dive into modern technologies or introducing tech enabled solutions in their businesses.
