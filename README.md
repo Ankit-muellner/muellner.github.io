@@ -13,10 +13,6 @@ Our customers are businesses looking to either dive into modern technologies or 
 We work on platformification of client’s business models. 
 Your domain expertise and our proprietary technology prowess.
 
-Tech Stacks: Blockchain, Java, Node.js, Restful Compliant API services, Web Services, Mobile Application
-
-Our philosophy: Open Source, Cloud, APIs
-
 2.) Muellner Analytics = Now we you have built a multi-layered business and use some sort of information system. However, you struggle with your data. Muellner Analytics is a service offering using a combination of modern technologies and tricks in the trade. We help our clients by introducing a group of data analytics tools in their IT processes.
 
 3.) Startup Capital = Muellners invest tech capital in early stage, growth potential businesses which are innovative in nature.
@@ -36,6 +32,12 @@ Data Science Services
 
 ### PRODUCTS
 
+BitCerti - Academic certification and tokenization
+Finocial -  Social Finance and banking as a platform using open banking API
+MIFOSX incubated as Apache Fineract - Customizations on Mifos X founded by Grameen Bank's Grameen Foundation
+Upscale Pay - Alternative payment use case for freelance industry 
+ProjktR - Data Analytics platform for fashion industry
+Fact-Project - Shaping of future Compliance directives
 
 ```markdown
 Syntax highlighted code block
