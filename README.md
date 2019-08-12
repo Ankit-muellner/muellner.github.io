@@ -4,7 +4,7 @@ Muellners™ is a new age Internet Informatics company based in India and Europe
 
 You can use the [editor on GitHub](https://github.com/Ankit-muellner/muellner.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
 
 ### CASE STUDIES
 ### SERVICES
@@ -38,26 +38,6 @@ MIFOSX incubated as Apache Fineract - Customizations on Mifos X founded by Grame
 Upscale Pay - Alternative payment use case for freelance industry 
 ProjktR - Data Analytics platform for fashion industry
 Fact-Project - Shaping of future Compliance directives
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ankit-muellner/muellner.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
