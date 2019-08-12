@@ -1,5 +1,6 @@
 ## Muellner Internet
-Muellners™ is an Internet Informatics company based in India and Europe. We aim to deliver technology products in the eco-system of innovative players. 
+Muellners™ is an Internet Informatics company based in India and Europe. We also invest technology into early stage businesses as tech capital partners and IP based debt financing.
+
 You can use the [editor on GitHub](https://github.com/Ankit-muellner/muellner.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -34,7 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-© 2019 Muellners™ Internet Pvt Ltd India. All Rights Reserved. New Delhi, India
+© 2019 Muellners™ Internet Pvt Ltd India. All Rights Reserved; New Delhi, India
 Managing Director : Ankit Sharma; ankit@muellners.com
 CIN no-U72900DL2019PTC344870, PAN -AAMCM3873A, TAN -DELM33923B, GSTin - 07AAMCM3873A1ZH 
-Muellners™ is a registered trademark of Muellner Internet Pvt Ltd, India and as per Vienna Codification
+Muellners™ is a registered trademark of Muellner Internet Pvt Ltd, India and as per Vienna Codification.
