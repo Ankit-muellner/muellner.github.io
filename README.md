@@ -35,3 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+© 2019 Muellners™ Internet Pvt Ltd India. All Rights Reserved. New Delhi, India
+Managing Director : Ankit Sharma; ankit@muellners.com
+CIN no-U72900DL2019PTC344870, PAN -AAMCM3873A, TAN -DELM33923B, GSTin - 07AAMCM3873A1ZH 
+Muellners™ is a registered trademark of Muellner Internet Pvt Ltd, India and as per Vienna Codification
