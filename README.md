@@ -32,7 +32,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-© 2019 Muellners™ Internet Pvt Ltd India. All Rights Reserved; New Delhi, India
-Managing Director : Ankit Sharma; ankit@muellners.com
-CIN no-U72900DL2019PTC344870, PAN -AAMCM3873A, TAN -DELM33923B, GSTin - 07AAMCM3873A1ZH 
+© 2019 Muellners™ Internet Pvt Ltd India. All Rights Reserved; New Delhi, India<br>
+Managing Director : Ankit Sharma; ankit@muellners.com<br>
+CIN no-U72900DL2019PTC344870, PAN -AAMCM3873A, TAN -DELM33923B, GSTin - 07AAMCM3873A1ZH<br>
 Muellners™ is a registered trademark of Muellner Internet Pvt Ltd, India and as per Vienna Codification.
