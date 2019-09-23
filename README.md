@@ -1,5 +1,5 @@
 ## Muellner Internet
-Muellners™ is a new age Internet Informatics company based in India and Europe. 
+Muellners® is a new age Internet Informatics company based in India and Europe. 
 
 ### CASE STUDIES
 Internet Marketing Case Studies
