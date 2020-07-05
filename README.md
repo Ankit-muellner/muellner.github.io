@@ -1,8 +1,8 @@
-## Muellner Internet
-Muellners® is a new age Internet Informatics company based in India and Europe. 
+## Muellners Inc 
+Muellners® is a new age Research and Development company. 
 
 ### CASE STUDIES
-Internet Marketing Case Studies
+Digital Services
 Research and Development Case Studies
 Analytics Case Studies
 Startup Capital Portfolio
@@ -20,28 +20,23 @@ Our startup capital investments are in form of debt based funding, IP based fina
 We invest in businesses which we believe can propel our technology’s use cases in their target market.
 
 4.) Internet Marketing = In today's digital business world, you need a partner who can help you take advantage of marketing opportunities across a variety of channels in real-time. 
-Muellners Internet combines a data-driven approach with knowledge gained from years in digital marketing to deliver outstanding results to our clients.
-Muellners Internet is an end-to-end provider of digital marketing services. Whether you're looking for a turnkey managed strategy, an independent audit, or services specific to a short-term campaign, our global experience and approach are sure to prove to be a valuable asset.
-Our in-house services include:
-Web Identity: Design & Development
-Social Media
-Search Engine Optimization
-Pay-Per-Click
-Digital Content & Video
-Data Science Services
+Muellners combines a data-driven approach with knowledge gained from years in digital marketing to deliver outstanding results to our clients.
+Muellners is an end-to-end provider of digital marketing services. Whether you're looking for a turnkey managed strategy, an independent audit, or services specific to a short-term campaign, our global experience and approach are sure to prove to be a valuable asset.
 
 ### PRODUCTS
 
-BitCerti - Academic certification and tokenization
-Finocial -  Social Finance and banking as a platform using open banking API
-MIFOSX incubated as Apache Fineract - Customizations on Mifos X founded by Grameen Bank's Grameen Foundation
+Analytics in Financial Services Industry
+Core Banking Solutions
+Ooen banking Solutions
+Apache Fineract based open source system integration services
+Blockchain use cases and RnD
+Finscale -  Banking as a platform: Open source and openbanking
 Upscale Pay - Alternative payment use case for freelance industry 
 ProjktR - Data Analytics platform for fashion industry
 Fact-Project - Shaping of future Compliance directives
-
+Learn Programme - a skill development program for product engineers.
 ### Support or Contact
 
-© 2019 Muellners™ Internet Pvt Ltd India. All Rights Reserved; New Delhi, India<br>
-Managing Director : Ankit Sharma; ankit@muellners.com<br>
-CIN no-U72900DL2019PTC344870, PAN -AAMCM3873A, TAN -DELM33923B, GSTin - 07AAMCM3873A1ZH<br>
+© 2019 Muellners India & Denmark. All Rights Reserved;<br>
+info@muellners.org
 Muellners™ is a registered trademark of Muellner Internet Pvt Ltd, India and as per Vienna Codification.
