@@ -15,7 +15,7 @@ Your domain expertise and our proprietary technology prowess.
 
 2.) Muellner Analytics = Now we you have built a multi-layered business and use some sort of information system. However, you struggle with your data. Muellner Analytics is a service offering using a combination of modern technologies and tricks in the trade. We help our clients by introducing a group of data analytics tools in their IT processes.
 
-3.) Startup Capital = Muellners invest tech capital in early stage, growth potential businesses which are innovative in nature.
+3.) Startup Capital = Muellners' invests tech capital in early stage, growth potential businesses which are innovative in nature.
 Our startup capital investments are in form of debt based funding, IP based financing or financial institution backed capital leases. In some extra-ordinary cases, we incubate startups by financing ourselves.
 We invest in businesses which we believe can propel our technology’s use cases in their target market.
 
