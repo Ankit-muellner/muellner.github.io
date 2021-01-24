@@ -39,4 +39,4 @@ Learn Programme - a skill development program for product engineers.
 
 © 2019 Muellners India & Denmark. All Rights Reserved;<br>
 info@muellners.org
-Muellners™ is a registered trademark of Muellner Internet Pvt Ltd, India and as per Vienna Codification.
+Muellners®  is a registered trademark of Muellner Internet Pvt Ltd, India and as per Vienna Codification.
